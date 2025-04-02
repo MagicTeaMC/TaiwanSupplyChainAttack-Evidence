@@ -257,11 +257,11 @@ This data is for research purposes only. Please comply with local laws when shar
 
 ### **技術證據清單**  
 
-1. Google Pixel 8a（全新未拆封）核心級 Rootkit 感染實證 [錯誤報告#001]  
+1. Google Pixel 8a（全新）設備 核心級 Rootkit 感染實證 [錯誤報告#001]  
    
    - 技術特徵指向 台灣軍工複合體 與 電信供應鏈  
 
-2. OPPO A3x 設備 HAL 層服務崩潰分析報告 [錯誤報告#002]  
+2. OPPO A3x (全新) 設備 HAL 層服務崩潰分析報告 [錯誤報告#002]  
    
    - 攻擊模式 與 Pixel 8a 具高度一致性  
 
