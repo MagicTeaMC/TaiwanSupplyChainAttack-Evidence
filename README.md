@@ -140,8 +140,7 @@ Please forward this report to the following international organizations:
 
 
 
-請江夏文本翻譯為英文 謝謝 ... ** 標題： **  
-
+** 標題： **  
 
 **「政府支持的供應鏈攻擊：台灣行動裝置中預裝的 Rootkit 與 監控後門 」**  
 
@@ -152,8 +151,9 @@ Please forward this report to the following international organizations:
 
 我們在此舉報一起針對台灣消費性電子產品與通訊基礎設施的 ** 國家級供應鏈攻擊 ** 。
 
-證據顯示， ** 台灣執法機關 **（含調查局、刑事警察局等單位）與 ** 中華電信 ** 協同實施多向量攻擊，並透過多種攻擊途徑佈
-署 ** 核心層級 RootKit **、** 持久性 Shell 後門** 及 ** 偽造根憑證 **
+證據顯示， ** 台灣執法機關 **（含調查局、刑事警察局等單位）與 ** 中華電信 ** 協同實施多向量攻擊，並透過多種攻擊途徑佈署 
+
+** 核心層級 RootKit **、** 持久性 Shell 後門** 及 ** 偽造根憑證 **
 
 具體手法包括：  
 
