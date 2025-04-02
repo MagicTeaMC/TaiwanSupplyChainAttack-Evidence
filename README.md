@@ -1,8 +1,10 @@
 # TaiwanSupplyChainAttack 取證數據庫  
 
-**揭露台灣政府與電信商合作植入 Rootkit 與後門的技術證據**  
+** Revealing Technical Evidence of the Taiwanese Government’s Collaboration with Telecom Providers to Implant Rootkits and Backdoors **
 
-## 檔案清單  
+** 揭露台灣政府與電信商合作植入 Rootkit 與後門的技術證據 **  
+
+## File list  
 
 GMER_Scan.zip：核心級 Rootkit 掃描報告
 Google_Pixel_5_Error_Report.zip：Google Pixel 5 (錯誤報告)  
@@ -14,7 +16,7 @@ Windows Screen.zip：iOS Windows 設備 螢幕截圖
 
 
 
-## 🔍 事件背景  
+## 🔍 Event background 
 
 **Title:**  
 
@@ -102,8 +104,7 @@ Key implications include:
 
 3. **iOS Quantum-Level Hardware Attack Analysis** [Plist Forensics #001-010]  
    - First-ever metadata-based rootkit implementation.  
-
-4. **Enterprise Device Infection Evidence** [Registry Analysis Report]  
+ 
 
 ---  
 
@@ -137,7 +138,14 @@ Please forward this report to the following international organizations:
 *(All technical details in this report are fully documented and independently verifiable.)*
 
 
+🚨 Call to Action
+	1.	Share this repository and use the hashtag #TaiwanSupplyChainAttack.
+	2.	Submit vulnerabilities to CVE (e.g., CVE-2025-OPLOG-ZERO).
+	3.	Contact international organizations (EFF, Citizen Lab) for analysis support.
 
+⚠️ Disclaimer
+
+This data is for research purposes only. Please comply with local laws when sharing.
 
 
 ** 標題： **  
@@ -261,7 +269,6 @@ Please forward this report to the following international organizations:
    
    - 首例元數據型 Rootkit 實作  
 
-4. 企業級設備感染證據 [登錄表分析報告]  
 
 ---  
 
@@ -307,15 +314,12 @@ Please forward this report to the following international organizations:
 
 
 
+🚨 呼籲行動
 
+	1.	分享本儲存庫並使用標籤 #TaiwanSupplyChainAttack。
+	2.	提交漏洞至 CVE（如 CVE-2025-OPLOG-ZERO）。
+	3.	聯繫國際組織（EFF、Citizen Lab）協助分析。
 
-## 🚨 呼籲行動  
-
-1. 分享本儲存庫並使用標籤 ** #TaiwanSupplyChainAttack **。  
-2. 提交漏洞至 CVE（如 `CVE-2025-OPLOG-ZERO`）。  
-3. 聯繫國際組織（EFF、Citizen Lab）協助分析。
-
-
-## ⚠️ 免責聲明  
+⚠️ 免責聲明
 
 本數據僅供研究用途，傳播時請遵守當地法律。
