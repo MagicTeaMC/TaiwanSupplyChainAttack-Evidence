@@ -108,6 +108,12 @@ Key implications include:
 
 ---  
 
+The current situation of computer and internet file downloads in the Taiwan region has been recorded using 'Windows Screen Recorder,' and the footage has been uploaded to YouTube: 
+
+https://youtu.be/Xme3BDRVZE8?si=ZfTVCorxkcPqF4bT"
+
+---  
+
 ### **Current Status Alert**  
 
 All internet-connected devices in Taiwan (including mobile devices and PCs) are effectively exposed to surveillance risks. The existing network environment lacks any foundation of trust.  
@@ -269,6 +275,11 @@ This data is for research purposes only. Please comply with local laws when shar
    
    - 首例元數據型 Rootkit 實作  
 
+---  
+
+台灣地區目前電腦與網路下載檔案的實際情形 已利用 「Windows 螢幕錄影」將畫面上傳至 YouTube ：
+
+https://youtu.be/Xme3BDRVZE8?si=ZfTVCorxkcPqF4bT
 
 ---  
 
