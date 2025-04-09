@@ -110,7 +110,7 @@ Key implications include:
 
 The current situation of computer and internet file downloads in the Taiwan region has been recorded using 'Windows Screen Recorder,' and the footage has been uploaded to YouTube: 
 
-https://youtu.be/Xme3BDRVZE8?si=ZfTVCorxkcPqF4bT"
+https://youtu.be/Xme3BDRVZE8?si=ZfTVCorxkcPqF4bT
 
 ---  
 
