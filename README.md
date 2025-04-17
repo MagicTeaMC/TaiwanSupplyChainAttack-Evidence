@@ -108,9 +108,9 @@ Key implications include:
 
 ---  
 
-The current situation of computer and internet file downloads in the Taiwan region has been recorded using 'Windows Screen Recorder,' and the footage has been uploaded to YouTube: 
+The current situation of computer and internet file downloads in the Taiwan region has been recorded using 'Windows Screen Recorder,' and the footage has been uploaded to YouTube Channel: @iamontou1023
 
-https://youtu.be/Xme3BDRVZE8?si=ZfTVCorxkcPqF4bT
+https://youtu.be/K7IQyfpk4Tc?si=_uLom-bZ-Bf89_eD
 
 ---  
 
@@ -277,9 +277,9 @@ This data is for research purposes only. Please comply with local laws when shar
 
 ---  
 
-台灣地區目前電腦與網路下載檔案的實際情形 已利用 「Windows 螢幕錄影」將畫面上傳至 YouTube ：
+台灣地區目前電腦 與 網路下載檔案的實際情形 已利用 「Windows 螢幕錄影」將畫面上傳至 YouTube 頻道：@iamontou1023
 
-https://youtu.be/Xme3BDRVZE8?si=ZfTVCorxkcPqF4bT
+https://youtu.be/K7IQyfpk4Tc?si=_uLom-bZ-Bf89_eD
 
 ---  
 
