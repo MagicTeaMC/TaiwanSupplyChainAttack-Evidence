@@ -13,7 +13,7 @@ OPPO_A3x_Error_Report.zip：OPPO A3x (錯誤報告)
 iPhone_Plist.zip：iOS 設備 Plist 取證數據
 iPhone_Screen.zip：iOS 設備 螢幕截圖
 Windows Screen.zip：iOS Windows 設備 螢幕截圖
-
+Persistent shell-based backdoor for monitoring and privilege escalation/theft.html（持久性 Shell(殼層) 監控後門 竊取權限）
 
 
 ## 🔍 Event background 
