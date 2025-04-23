@@ -8,7 +8,8 @@
 
 GMER_Scan.zip：核心級 Rootkit 掃描報告
 Google_Pixel_5_Error_Report.zip：Google Pixel 5 (錯誤報告)  
-Google_Pixel_8a_Error_Report.zip：Pixel 8a (錯誤報告)
+Google_Pixel_8a_Error_Report.zip：Google Pixel 8a (錯誤報告)
+GrapheneOS_System_Log.zip：GrapheneOS (系統日誌)
 OPPO_A3x_Error_Report.zip：OPPO A3x (錯誤報告)
 iPhone_Plist.zip：iOS 設備 Plist 取證數據
 iPhone_Screen.zip：iOS 設備 螢幕截圖
